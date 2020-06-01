@@ -1,3 +1,5 @@
 #include
 return 0;
-"Another"
+printf("Another")
+
+"Yet again"
